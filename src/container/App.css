@@ -1,0 +1,12 @@
+ @font-face {
+    font-family: 'Debitant Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Debitant Regular'), url('Debitant.woff') format('woff');
+    }
+  h1
+  {
+  	font-family: 'Debitant Regular';
+  	font-weight: 200;
+  	color:  #39CCCC;
+  }
